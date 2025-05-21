@@ -177,7 +177,6 @@ calibration_*.npy
 .dist_test/
 checkpoints/
 output/
-sources/
 tmp_code/
 work_dirs/
 net.txt
