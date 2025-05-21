@@ -41,5 +41,15 @@ python test.py configs/hybrid/hybrid_s_syncbn_fast_8xb16-500e_coco.py work_dirs/
 If you find this project useful in your research, please consider cite:
 
 ```
-
+@article{CHEN2025111067,
+title = {A hybrid architecture based on structured state space sequence model and convolutional neural network for real-time object detection},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {156},
+pages = {111067},
+year = {2025},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2025.111067},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197625010681},
+author = {Jie Chen and Meng Joo Er},
+}
 ```
